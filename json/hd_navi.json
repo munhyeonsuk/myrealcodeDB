@@ -1,0 +1,72 @@
+
+    [
+      {
+        "class": "gnb_li px-5 position-relative py-3",
+        "link": {
+          "href": "",
+          "text": "경주 소개",
+          "class": "gnb_a"
+        },
+        "submenu": {
+          "class": "gnb_ul position-absolute ps-0 pt-2",
+          "items": [
+            {"href": "", "text": "역사 및 소개"},
+            {"href": "", "text": "지역 특산품"}
+          ]
+        }
+      },
+      {
+        "class": "gnb_li px-5 position-relative py-3",
+        "link": {
+          "href": "",
+          "text": "여행 정보",
+          "class": "gnb_a"
+        },
+        "submenu": {
+          "class": "gnb_ul position-absolute ps-0 pt-2",
+          "items": [
+            {"href": "", "text": "관광지"},
+            {"href": "", "text": "음식 및 카페"},
+            {"href": "", "text": "축제"},
+            {"href": "", "text": "추천 코스"},
+            {"href": "", "text": "여행 후기"}
+          ]
+        }
+      },
+      {
+        "class": "gnb_li px-5 position-relative py-3",
+        "link": {
+          "href": "",
+          "text": "예약 및 문의",
+          "class": "gnb_a"
+        },
+        "submenu": {
+          "class": "gnb_ul position-absolute ps-0 pt-2",
+          "items": [
+            {"href": "", "text": "숙소 예약"},
+            {"href": "", "text": "패키지 여행 예약"},
+            {"href": "", "text": "문의사항"},
+            {"href": "", "text": "자주 묻는 문의"}
+          ]
+        }
+      },
+      {
+        "class": "gnb_li px-5 position-relative py-3",
+        "link": {
+          "href": "",
+          "text": "이벤트",
+          "class": "gnb_a"
+        },
+        "submenu": {
+          "class": "gnb_ul position-absolute ps-0 pt-2",
+          "items": [
+            {"href": "", "text": "진행중인 이벤트"}
+          ]
+        }
+      }
+    ]
+
+
+
+    
+ 
